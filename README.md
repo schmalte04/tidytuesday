@@ -5,7 +5,7 @@ Here are some contributions:
 
 Tree Data from San Francisco
 
-![alt text](https://github.com/schmalte04/tidytuesday/blob/master/tree.jpeg)
+![alt text](https://pbs.twimg.com/media/EPWOepNWkAA-LbO?format=jpg&name=large)
 
 Nuclear Explosions
 
