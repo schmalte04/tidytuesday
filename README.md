@@ -1,3 +1,1 @@
-# tidytuesday
-
-Here you can see my exploration for tidytuesdays.
+Always when i find the time i love to contribute to the social "TidyTuesday" project. TidyTuesday is a data vizualisation project where the community works on vizualisations using public available datasets and R Graphic engine ggplot2. I started 2019 to participate and whenever i find some time i join the action. 
